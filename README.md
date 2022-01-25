@@ -1,3 +1,10 @@
+# TODO
+- [ ] Mettere il lower text nel seed e non nella query
+
+
+
+
+
 # README
 
 This README would normally document whatever steps are necessary to get the
