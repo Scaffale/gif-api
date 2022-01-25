@@ -1,6 +1,7 @@
 class V1::GifController < ApplicationController
   def search
-    render json: FactoryBot.build_list(:gif, 1)
+    gif = Gif.all
+    render json: gif
   end
 
   private
